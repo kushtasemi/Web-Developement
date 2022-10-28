@@ -1,0 +1,14 @@
+body{
+    background-color:#CFB997;
+  }
+  hr {
+    background-color: #FFACC7;
+    border-style: dotted;
+    border-top-style: none;
+    border-width: 3px;
+    width:5%;
+  }
+.pink {
+  color: #FFC0CB;
+  
+}
